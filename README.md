@@ -166,7 +166,7 @@ npm run docker:compose
 npm run prisma:generate
 
 # Run migrations
-npm run prisma:migration:deploy
+npm run prisma:migrate:deploy
 
 # (Optional) View database in browser
 npm run prisma:studio
@@ -201,7 +201,7 @@ npm run lint               # Check with ESLint
 # Database
 npm run prisma:generate    # Generate Prisma Client
 npm run prisma:studio      # Database web interface
-npm run prisma:migration:deploy  # Run migrations
+npm run prisma:migrate:deploy  # Run migrations
 
 # Docker
 npm run docker:compose     # Start containers
