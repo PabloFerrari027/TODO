@@ -134,8 +134,8 @@ src/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/PabloFerrari027/todo.git
-cd todo
+git clone https://github.com/PabloFerrari027/TODO.git
+cd TODO
 ```
 
 2. **Install dependencies**
